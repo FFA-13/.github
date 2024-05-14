@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img align="left" alt="CS" width="360" src="https://i.ibb.co/0jFHVyj/awjefvajf3.gif">
 <!--
 
 **Here are some ideas to get you started:**
